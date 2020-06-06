@@ -37,3 +37,5 @@ Then run the app:
 $ node app
 
 ## Live Demo  
+
+Please check out the launched app heroku [here](https://aqueous-garden-36898.herokuapp.com/)
