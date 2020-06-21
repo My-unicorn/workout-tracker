@@ -34,7 +34,7 @@ $ npm install
 
 Then run the app:
 
-$ node app
+$ node server.js
 
 ## Live Demo  
 
